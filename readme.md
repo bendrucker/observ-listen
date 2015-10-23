@@ -56,6 +56,7 @@ Default: `false`
 
 If true, the listener will be called immediately with the current value.
 
+
 ## License
 
 MIT © [Ben Drucker](http://bendrucker.me)
