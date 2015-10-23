@@ -1,0 +1,33 @@
+{
+  "name": "observ-listen",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Trigger observ/watch or normal listening via a single interface",
+  "license": "MIT",
+  "repository": "bendrucker/observ-listen",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observable",
+    "observ",
+    "listen",
+    "fn"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "observ": "~0.2.0"
+  }
+}
