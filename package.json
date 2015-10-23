@@ -1,7 +1,7 @@
 {
   "name": "observ-listen",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Trigger observ/watch or normal listening via a single interface",
   "license": "MIT",
   "repository": "bendrucker/observ-listen",
