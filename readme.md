@@ -1,4 +1,4 @@
-# observ-listen [![Build Status](https://travis-ci.org/bendrucker/observ-listen.svg?branch=master)](https://travis-ci.org/bendrucker/observ-listen)
+# observ-listen [![Build Status](https://travis-ci.org/bendrucker/observ-listen.svg?branch=master)](https://travis-ci.org/bendrucker/observ-listen) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-listen.svg)](https://greenkeeper.io/)
 
 > Trigger observ/watch or normal listening via a single interface
 
